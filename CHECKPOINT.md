@@ -26,3 +26,10 @@ Atualizado: 2026-10-22
 - Próxima ação e responsável:
 
 Nunca marcar tarefa como concluída apenas por ter sido planejada.
+
+## Atualização SPEC-00 — 2026-10-22
+- Branch: `spec/00-html-prototype`.
+- Protótipo HTML responsivo navegável criado em `prototypes/spec-00/index.html` com login demonstrativo, chat, dashboard, transações, cartões, relatórios e configurações.
+- Dados sintéticos; sem Firebase, backend, banco, IA real ou gravação financeira.
+- Aguardando revisão visual e aprovação do usuário. Sem testes automatizados executados, sem deploy e sem merge.
+- Asset PNG Art Concept v2 ainda pendente de versionamento.
